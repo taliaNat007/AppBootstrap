@@ -17,7 +17,7 @@ export class AppController {
     ];
     
     return {
-      titulo: 'AppWeb com NestJs',
+      titulo: 'Produto',
       horaAgora: new Date(),
       listaPessoas: pessoas
     };
